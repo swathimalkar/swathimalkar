@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @swathimalkar
+- 👀 I’m interested in coding and designing software
+-  🌱 I’m currently learning new skills
+- 💞️ I’m looking to collaborate on software projects
+- 📫 Reach me : swathi.malkar@gmail.com
